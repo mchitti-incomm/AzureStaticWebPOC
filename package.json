@@ -1,15 +1,15 @@
 {
   "name": "azurepoc",
   "version": "0.0.0",
-  "scripts": {  
-    "ng": "ng",  
-    "start": "ng serve",  
-    "build": "ng build",  
-    "test": "ng test",  
-    "lint": "ng lint",  
-    "e2e": "ng e2e",  
-    "prod-build-dev": "ng build --prod",  
-    "prod-build-staging": "ng build --prod --configuration=staging --build-optimizer"  
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "prod-build-dev": "ng build --prod",
+    "prod-build-staging": "ng build --prod --configuration=staging --build-optimizer"
   },
   "private": true,
   "dependencies": {
